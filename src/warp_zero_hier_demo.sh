@@ -1,6 +1,7 @@
 raw_data=../Data/BBN/
 data=../Intermediate/BBN/
 output=../Results/BBN/
+mkdir $output
 delimter='/'
 max_dep=$2
 depth=$3
